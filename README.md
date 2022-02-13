@@ -1,2 +1,3 @@
 # Portfolio
-using only HTML/CSS
+beginner-portfolio using clear HTML/CSS 
+visit : https://abdullahelshoura.github.io/Portfolio/
